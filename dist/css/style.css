@@ -1402,7 +1402,7 @@ button {
   padding: 0 20px;
 }
 .contact__form-name:hover, .contact__form-name:focus, .contact__form-name:active, .contact__form-tel:hover, .contact__form-tel:focus, .contact__form-tel:active {
-  color: #999999;
+  color: #000000;
   opacity: 1;
 }
 .contact__form-btn {
